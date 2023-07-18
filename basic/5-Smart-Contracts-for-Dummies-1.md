@@ -141,6 +141,6 @@ So in this tutorial will learn how to do a transaction, automatically with the "
 ##### Ask for some tokens on minima discord "#app-chat" channel and someone DM you and ask for your address to send 10 minima, once finished the tutorial, do the same to help other people to learn, that's the minima community philosophy, help each other.
 ------------------------------------------------------------
 
-- Go back to tutorials page: <https://github.com/elledaniels/Minima_Tutorials>
+- Go back to tutorials page: <https://github.com/MBCOT/Minima-Tutorials>
 
 by @JOSUA
