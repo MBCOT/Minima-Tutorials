@@ -206,6 +206,6 @@ Minima @ 04/05/2022 11:47:49 [37.4 MB] : NEW Unspent Coin : {"coinid":"0xE1297E9
 ##### Ask for some tokens on minima discord "#app-chat" channel and someone DM you and ask for your address to send some minima, once finished the tutorial, do the same to help other people to learn, that's the minima community philosophy, help each other.
 ------------------------------------------------------------
 
-- Go back to tutorials page: <https://github.com/elledaniels/Minima_Tutorials>
+- Go back to tutorials page: <https://github.com/MBCOT/Minima-Tutorials>
 
 by @JOSUA and the help of ----> @mbor and @spartacusrex and @elias (**without his help this tutorial wouldn't have been possible**) <----
